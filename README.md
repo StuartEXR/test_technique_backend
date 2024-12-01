@@ -1,16 +1,16 @@
 
 # Exxact Robotics - Backend Python Developer Test 🛠
-Hi! We're glad you want to join Exxact Robotics! We've designed this test so that you can show us how you think about a problem and how you implement its solution. We'll discuss about it during our next meeting.
+Hi! We're glad you want to join Exxact Robotics! We've designed this test so that you can show us how you think about a problem and how you implement its solution. We'll discuss it during our next meeting.
 
 ## Project
 Paris Region wants to have a web application to track the investments it makes for its high schools buildings. They provided you the dataset.json files containing the existing investments.
 
 # Stage 1: REST API
 
-This is the heart of the test and is designed to allow you to be able to show the full range of your abilities.
+This is the heart of the test and is designed to allow you to be able to give us a good glimpse of your abilities.
 We are looking for a Python developer that is able to step up as the platform architect as the projects are adopted by the various groups within the company.
 
-For the backend, we would like you to write a REST API to retrieve the investment data:
+For the backend, we would like you to write REST APIs to retrieve the investment data:
 
  - List all the investments
  - Return lists filtered by town, status or spelling.
@@ -36,7 +36,7 @@ Via your app, we would like you to:
 Although this test if aimed togethers backend developers, feel free to show off your skills by imagining and adding some interesting graphs / maps to spice up your website!
 
 ## Bonus stages
-The following are not required but would be excellent to see!
+The following are not obligatory but would be excellent to see!
 
  - Deploy your application to a cloud platform of your choice
  - Have some cool ideas? Go for it 👍
