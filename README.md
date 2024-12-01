@@ -16,8 +16,8 @@ For the backend, we would like you to write REST APIs to retrieve the investment
  - Return lists filtered by town, status or spelling.
  - Delete, add and modify investments
  - Get a single / several investment(s) by id(s)
- - currency mapping - the frontend selects a language and receives the budget in the local currency
-
+ - currency mapping - the frontend selects a language and receives the budget in the local currency.
+Use the APIs here to get the data https://free.currencyconverterapi.com 
 
 
 Pay attention to the HTTP methods and status codes you use!
