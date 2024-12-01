@@ -35,7 +35,7 @@ Via your app, we would like you to:
 
 Although this test if aimed togethers backend developers, feel free to show off your skills by imagining and adding some interesting graphs / maps to spice up your website!
 
-Bonus stages
+## Bonus stages
 The following are not required but would be excellent to see!
 
  - Deploy your application to a cloud platform of your choice
