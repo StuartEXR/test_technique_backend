@@ -1,5 +1,5 @@
 
-# Exxact Robotics - Frontend Angular Developer Test 🛠
+# Exxact Robotics - Backend Python Developer Test 🛠
 Hi! We're glad you want to join Exxact Robotics! We've designed this test so that you can show us how you think about a problem and how you implement its solution. We'll discuss about it during our next meeting.
 
 ## Project
