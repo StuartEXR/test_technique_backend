@@ -5,7 +5,7 @@ Hi! We're glad you want to join Exxact Robotics! We've designed this test so tha
 ## Project
 Paris Region wants to have a web application to track the investments it makes for its high schools buildings. They provided you the dataset.json files containing the existing investments.
 
-# Stage 1: REST API
+# Step 1: REST API
 
 This is the heart of the test and is designed to allow you to be able to give us a good glimpse of your abilities.
 We are looking for a Python developer that is able to step up as the platform architect as the projects are adopted by the various groups within the company.
@@ -15,7 +15,10 @@ For the backend, we would like you to write REST APIs to retrieve the investment
  - List all the investments
  - Return lists filtered by town, status or spelling.
  - Delete, add and modify investments
- - Get a single investment by id
+ - Get a single / several investment(s) by id(s)
+ - currency mapping - the frontend selects a language and receives the budget in the local currency
+
+
 
 Pay attention to the HTTP methods and status codes you use!
 
@@ -29,13 +32,15 @@ In this case, we would like you to develop a simple web application. For the fro
 
 Via your app, we would like you to:
 
- - Display the list of investments in the form of a table (raw HTML or a 3rd party library that lets you apply various filters, right-clicks, drag-and-drop...)
+ - Display the list of investments in the form of a table (raw HTML or 3rd party library...)
+ - Choose the currency that you want to display the budgets in
  - Add a form so that we can trigger the API filters
+ - Multiselect so that we can delete several investments 
  - Add a page to show and to modify the details of a single investment
 
-Although this test if aimed togethers backend developers, feel free to show off your skills by imagining and adding some interesting graphs / maps to spice up your website!
+Although this test is aimed at backend developers, feel free to show off your skills by imagining and adding some interesting graphs / maps to spice up your website!
 
-## Bonus stages
+## Bonus steps
 The following are not obligatory but would be excellent to see!
 
  - Deploy your application to a cloud platform of your choice
